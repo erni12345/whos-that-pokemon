@@ -1,4 +1,4 @@
-data/*
+data/*.jpg
 venv
 venv/
 *jpg
